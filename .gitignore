@@ -18,3 +18,7 @@ ENV/
 # IDE files
 .vscode/
 .idea/
+
+# Test cache
+.pytest_cache/
+pytest-cache-files-*/
